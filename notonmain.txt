@@ -1,0 +1,6 @@
+--separate branch : day1Branch
+to create a new branch  git checkout -b "Branchname"
+                        git checkout -b "day1Branch"
+                        git status 
+                        git add .
+                        
